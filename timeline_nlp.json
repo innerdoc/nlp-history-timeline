@@ -1,0 +1,505 @@
+
+{
+    "title": {
+        "media": {
+          "url": "https://media.istockphoto.com/photos/tower-of-babel-picture-id497995807?k=6&m=497995807&s=612x612&w=0&h=lAzEKdtJMpNPHjiJzt6KmPvSDp98jeJ-PQK-YW2y0lI=",
+          "caption": "The Tower of Babel. <a target=\"_blank\" href='https://media.istockphoto.com/photos/tower-of-babel-picture-id497995807?k=6&m=497995807&s=612x612&w=0&h=lAzEKdtJMpNPHjiJzt6KmPvSDp98jeJ-PQK-YW2y0lI='>credits</a>",
+          "credit": ""
+        },
+        "text": {
+          "headline": "Natural Language Processing<br>A History",
+          "text": "<p>Not 'the' history</p>"
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ferdinand_de_Saussure_by_Jullien_Restored.png/800px-Ferdinand_de_Saussure_by_Jullien_Restored.png",
+          "caption": "The Swiss linguist Ferdinand de Saussure (1857–1913) (<a target=\"_blank\" href='https://en.wikipedia.org/wiki/Ferdinand_de_Saussure'>credits</a>)"
+        },
+        "start_date": {
+          "year": "1916"
+        },
+        "text": {
+          "headline": "Ferdinand de Saussure<br/>Cours de Linguistique Générale",
+          "text": "<br/><p>CHAPTER II: The subject matter of linguistics comprises all manifestations of human speech, whether that of savages or civilized nations, or of archaic, classical or decadent periods. In each period the linguist must consider not only correct speech and flowery language, but all other forms of expression as well. And that is not all: since he is often unable to observe speech directly, he must consider written texts, for only through them can he reach idioms that are remote in time or space.</p><br/><a target=\"_blank\" rel=\"noopener\" onclick=\"this.target='_blank'\" href='https://simondlevy.academic.wlu.edu/files/courses/anth252f2006/saussure.pdf' >Ferdinand de Saussure - Course in General Linguistics.pdf</a>"
+        }
+      },
+      {
+        "media": {
+          "url": "http://blogs.bbk.ac.uk/bbkcomments/files/2020/08/Kathleen-Britten-Xenia-Sweeting-and-Andrew-Booth-372x300.jpg",
+          "caption": "Kathleen Britten, Xenia Sweeting and Andrew Booth working on ARC in December 1946 (<a target=\"_blank\" href='https://www.dcs.bbk.ac.uk/site/assets/files/1029/50yearsofcomputing.pdf'>credits</a>)"
+        },
+        "start_date": {
+          "year": "1948"
+        },
+        "text": {
+          "headline": "First NLP application",
+          "text": "<p>This is how the story goes:</p><p>Andrew D. Booth who, in 1944, had just gained a PhD studying the crystal structure of explosives and already experimenting with the automation of the large sets of calculations needed to determine crystal structures from X-ray images. Andrew Booth asked if the Rockefeller Foundation would fund a computer for London University. Weaver said that the Rockefeller Foundation could not fund a computer for mathematical calculations but that he had begun to think about using a computer to carry out natural language translation and that the Foundation probably could fund a computer for research in that area.</p><p>Thus Birkbeck University of London became for the next fifteen years a leading centre for natural language research. Initially the tiny memory on computers meant it was very difficult to do any serious processing but Andrew Booth and his research students developed techniques for parsing text and also for building dictionaries.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://cdn-images-1.medium.com/max/652/1*8G5Jjppyxy96yGmYk0YwoQ.png",
+          "caption": "Warren Weaver (<a target=\"_blank\" href='https://cdn-images-1.medium.com/max/652/1*8G5Jjppyxy96yGmYk0YwoQ.png'>credits</a>)"
+        },
+        "start_date": {
+          "year": "1949",
+          "month": "7"
+        },
+        "text": {
+          "headline": "Weavers Memorandum<br>'Translation'",
+          "text": "<p>In july 1949 Warren Weaver sent to some 30 acquaintances a memorandum on the possibilities of using the newly invented digital computers on the task of translating documents. Said to be probably the single most influential publication in the early days of machine translation, it formulated goals and methods before most people had any idea of what computers might be capable of.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://archive.org/download/MIND--COMPUTING-MACHINERY-AND-INTELLIGENCE/page/cover_t.jpg",
+          "caption": "Publication of The Imitation Game (<a target=\"_blank\" href='https://archive.org/download/MIND--COMPUTING-MACHINERY-AND-INTELLIGENCE/page/cover_t.jpg'>credits</a>)"
+        },
+        "start_date": {
+          "year": "1950",
+          "month": "10"
+        },
+        "text": {
+          "headline": "Turing Test",
+          "text": "<p>The Turing test, originally called The Imitation Game by Alan Turing in 1950, is a test of a machine's ability to exhibit intelligent behaviour equivalent to, or indistinguishable from, that of a human.</p><p>Turing proposed that a human evaluator would judge natural language conversations between a human and a machine designed to generate human-like responses. The evaluator would be aware that one of the two partners in conversation is a machine, and all participants would be separated from one another. The conversation would be limited to a text-only channel such as a computer keyboard and screen so the result would not depend on the machine's ability to render words as speech. If the evaluator cannot reliably tell the machine from the human, the machine is said to have passed the test.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.pinimg.com/originals/df/10/5c/df105c921e09b6893445a7d875ea7d1d.jpg",
+          "caption": "The IBM 701 Mainframe Computer (<a target=\"_blank\" href='https://i.pinimg.com/originals/df/10/5c/df105c921e09b6893445a7d875ea7d1d.jpg'>credits</a>)"
+        },
+        "start_date": {
+          "year": "1954",
+          "month": "1"
+        },
+        "text": {
+          "headline": "The Georgetown–IBM experiment",
+          "text": "The Georgetown–IBM experiment was an influential demonstration of machine translation, the experiment involved completely automatic translation of more than sixty Russian sentences into English. The authors claimed that within three or five years, machine translation would be a solved problem (J. Hutchins, 2005)"
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chomsky-Syntactic-Structures-Grammar-Model.jpg",
+          "caption": "The grammar model from Syntactic Structures (1957) (<a target=\"_blank\" href='https://upload.wikimedia.org/wikipedia/commons/f/f0/Chomsky-Syntactic-Structures-Grammar-Model.jpg'>credits</a>)"
+        },
+        "start_date": {
+          "year": "1957",
+          "month": "2"
+        },
+        "text": {
+          "headline": "Syntactic Structures",
+          "text": "Noam Chomsky’s Syntactic Structures revolutionized Linguistics with 'Universal Grammar', a rule based system of syntactic structures."
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_Rupert_Firth.png",
+          "caption": "John Rupert Firth (<a target=\"_blank\" href='https://upload.wikimedia.org/wikipedia/commons/c/c3/John_Rupert_Firth.png'>credits</a>)"
+        },
+        "start_date": {
+          "year": "1957"
+        },
+        "text": {
+          "headline": "'You Shall Know A Word<br>By The Company It Keeps'",
+          "text": "<p>John Rupert Firth (1890-1960) was an English linguist and a leading figure in British linguistics during the 1950s. Firth is noted for drawing attention to the context-dependent nature of meaning with his notion of 'context of situation', and his work on collocational meaning.</p><p>An influential position in lexical semantics holds that semantic representations for words can be derived through analysis of patterns of lexical co-occurrence in large language corpora. Hence, the quote 'You Shall Know A Word By The Company It Keeps'.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.channelone.com/wp-content/uploads/2015/03/bigstock-Pile-Of-Words-1896131-crop.jpg",
+          "caption": "(<a target=\"_blank\" href='http://korpus.uib.no/icame/manuals/BROWN/INDEX.HTM'>credits</a>)"
+        },
+        "start_date": {
+          "year": "1961"
+        },
+        "text": {
+          "headline": "Brown Corpus",
+          "text": "The Brown Corpus is an electronic collection of text samples of American English, the first major structured corpus of varied genres. This corpus first set the bar for the scientific study of the frequency and distribution of word categories in everyday language use. It consists of 1 million words."
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.pbs.org/wgbh/nova/media/images/antarctica-last-1.width-2000.jpg",
+          "caption": "Antarctica (<a target=\"_blank\" href=''>credits</a>)"
+        },
+        "start_date": {
+          "year": "1966"
+        },
+        "text": {
+          "headline": "NLP Winter",
+          "text": "<p>Over-promised, under-delivered. A NLP (AI) Winter is a period of reduced funding and interest in NLP. The Automatic Language Processing Advisory Committee (ALPAC) concluded in a famous 1966 report that Machine Translation (MT) was slower, less accurate and twice as expensive as human translation and that 'there is no immediate or predictable prospect of useful MT'. <a target=\"_blank\" href='https://en.wikipedia.org/wiki/AI_winter#Machine_translation_and_the_ALPAC_report_of_1966'>(source)</a></p>"
+        }
+      },
+      {
+        "media": {
+          "url": "http://groups.umd.umich.edu/cis/course.des/cis479/lectures/Image28.gif",
+          "caption": "Conecptual Dependencies (<a target=\"_blank\" href='http://groups.umd.umich.edu/cis/course.des/cis479/lectures/Image28.gif'>credits</a>)"
+        },
+        "start_date": {
+          "year": "1969",
+          "month": "5"
+        },
+        "text": {
+          "headline": "Conceptual Dependency Theory",
+          "text": "<p>Roger Schank at Stanford University introduced the model in 1969. Schank developed the model to represent knowledge for natural language input into computers. Partly influenced by the work of Sydney Lamb, his goal was to make the meaning independent of the words used in the input, i.e. two sentences identical in meaning, would have a single representation.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://cdn.theatlantic.com/assets/media/img/mt/2014/06/Screen_Shot_2014_06_09_at_12.20.58_PM/lead_large.png",
+          "caption": "When ELIZA met PARRY (<a target=\"_blank\" href='https://cdn.theatlantic.com/assets/media/img/mt/2014/06/Screen_Shot_2014_06_09_at_12.20.58_PM/lead_large.png'>credits</a>)"
+        },
+        "start_date": {
+          "year": "1972"
+        },
+        "text": {
+          "headline": "Early Chatterbots",
+          "text": "<p>ELIZA (aka DOCTOR) was created at MIT in 1964 to demonstrate the superficiality of communication between humans and machines, Eliza simulated conversation by using a 'pattern matching' and substitution methodology that gave users an illusion of understanding on the part of the program, but had no built in framework for contextualizing events.</p><p>PARRY was written in 1972 by psychiatrist Kenneth Colby at Stanford. It attempted to simulate a person with paranoid schizophrenia.</p><p>One of the best known demos at the first International Conference on Computer Communications (ICCC 1972) features a conversation where PARRY and ELIZA were hooked up over ARPANET and 'talked' to each other.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://images.slideplayer.com/27/9104998/slides/slide_2.jpg",
+          "caption": "Knowledge organization (<a target=\"_blank\" href='https://images.slideplayer.com/27/9104998/slides/slide_2.jpg'>credits</a>)"
+        },
+        "start_date": {
+          "year": "1975"
+        },
+        "text": {
+          "headline": "Ontology-based Systems",
+          "text": "<p>During the 1970s many programmers began to write 'conceptual ontologies', which structured real-world information into computer-understandable data. An example is MARGIE (Meaning Analysis Response Generation and Inference on English), a language translation program. The system used only 11 primitive acts as a basis for defining all conceptual relationships in english.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://cdn-images-1.medium.com/max/800/1*drXFxQuhg9o-VDXnhE-B3Q.png",
+          "caption": "WordNet <a target=\"_blank\" href='https://cdn-images-1.medium.com/max/800/1*drXFxQuhg9o-VDXnhE-B3Q.png'>credits</a>"
+        },
+        "start_date": {
+          "year": "1985"
+        },
+        "text": {
+          "headline": "WordNet",
+          "text": "<p>WordNet is a large lexical database of English. Nouns, verbs, adjectives and adverbs are grouped into sets of cognitive synonyms (117.000 synsets), each expressing a distinct concept. Synsets are interlinked by means of conceptual-semantic and lexical relations. The resulting network of meaningfully related words and concepts can be navigated.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://cdn-images-1.medium.com/max/800/1*JMU_Rps2ys6MmAo2UHWaCg.png",
+          "caption": "Penn Treebank for POS tags <a target=\"_blank\" href='https://cdn-images-1.medium.com/max/800/1*JMU_Rps2ys6MmAo2UHWaCg.png'>credits</a>"
+        },
+        "start_date": {
+          "year": "1989"
+        },
+        "text": {
+          "headline": "Penn Treebank",
+          "text": "<p>A treebank is a parsed text corpus that annotates syntactic or semantic sentence structure. The construction of parsed corpora in the early 1990s revolutionized computational linguistics, which benefitted from large-scale empirical data. The exploitation of treebank data has been important ever since the first large-scale treebank, The Penn Treebank, was published. </p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://knowledge4policy.ec.europa.eu/sites/default/files/styles/highlight_thumbnail/public/adobestock_111708696.jpeg?itok=6FXz7lJZ",
+          "caption": "<a target=\"_blank\" href='https://knowledge4policy.ec.europa.eu/sites/default/files/styles/highlight_thumbnail/public/adobestock_111708696.jpeg?itok=6FXz7lJZ'>credits</a>"
+        },
+        "start_date": {
+          "year": "1990"
+        },
+        "text": {
+          "headline": "Large Scale Multi-Lingual Corpora",
+          "text": "<p>Machine Translation (MT) flourishes in the nineties due to large-scale, multi-lingual corpora from the European union, Canada (french-english) and Japan. Although domain-specific corpora are still needed. <a target=\"_blank\" href='http://www.hutchinsweb.me.uk/Nutshell-2005.pdf'>(source)</a></p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.microsoft.com/en-us/research/uploads/prod/2018/10/15.png",
+          "caption": "EMNLP Conference Top Authors (1996-2018) <a target=\"_blank\" href='https://www.microsoft.com/en-us/research/project/academic/articles/emnlp-conference-analytics/'>credits</a>"
+        },
+        "start_date": {
+          "year": "1996",
+          "month": "5"
+        },
+        "text": {
+          "headline": "First EMNLP Conference",
+          "text": "<p>Empirical Methods in Natural Language Processing (EMNLP) is a leading conference in the area of Natural Language Processing. EMNLP is organized by the ACL special interest group on linguistic data (SIGDAT). EMNLP was started in 1996, based on an earlier conference series called Workshop on Very Large Corpora (WVLC).</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://cdn-images-1.medium.com/max/800/1*68iYn4wq8VpEuXsa4anLig.png",
+          "caption": "Global spam volume as percentage of total e-mail traffic from 2007 to 2019 (<a target=\"_blank\" href='https://www.statista.com/statistics/420400/spam-email-traffic-share-annual/'>credits</a>)"
+        },
+        "start_date": {
+          "year": "1998"
+        },
+        "text": {
+          "headline": "Spam Detection",
+          "text": "<p>Naive Bayes was first applied to spam detection in Heckerman et al. (1998). The article addresses the growing problem of junk E-mail on the Internet.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i2.wp.com/charlenecassar.com/wp-content/uploads/2018/09/apache-lucene.png",
+          "caption": " (<a target=\"_blank\" href='https://i2.wp.com/charlenecassar.com/wp-content/uploads/2018/09/apache-lucene.png'>credits</a>)"
+        },
+        "start_date": {
+          "year": "1999"
+        },
+        "text": {
+          "headline": "Apache Lucene<br>Open-source Search Engine",
+          "text": "<p>Apache Lucene is an important free and open-source search engine software library. Lucene Core is a Java library providing powerful indexing and search features, as well as spellchecking, hit highlighting and advanced analysis/tokenization capabilities. Several projects extend Lucene's capability, such as Apache SOLR, ElasticSearch and MongoDB.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.researchgate.net/profile/Andrea_Lekkas/publication/334654187/figure/fig1/AS:784189741871111@1563976812811/Visualization-of-the-Neural-Probabilistic-Language-Model-ideated-by-Bengio-et-al-in.png",
+          "caption": "A Neural Probabilistic Language Model (<a target=\"_blank\" href='https://www.researchgate.net/publication/2413241_A_Neural_Probabilistic_Language_Model'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2001",
+          "month": "1"
+        },
+        "text": {
+          "headline": "The First Neural Language Model",
+          "text": "<p>The first Neural Language Model was introduced by Yoshio Bengio And His Team. They used the feed-forward neural network to introduce the first neural language model. It described an artificial neural network that didn’t use the connection to form a cycle. It’s quite different from the recurrent neural network. In this system, the data moved in one direction from input to output nodes.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.kdnuggets.com/wp-content/uploads/wikipedia-free-3.jpg",
+          "caption": "Wikipedia as a Corpus (<a target=\"_blank\" href='https://www.kdnuggets.com/wp-content/uploads/wikipedia-free-3.jpg'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2001",
+          "month": "1"
+        },
+        "text": {
+          "headline": "Wikipedia as a Corpus",
+          "text": "<p>Wikipedia is a free, multilingual open-collaborative online encyclopedia. Started in 2001 and has (in 2021) 55 million articles in more than 300 languages. Wikipedia is one of the most popular open data sources for building a corpus for NLP tasks.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://images.slideplayer.com/16/5183651/slides/slide_13.jpg",
+          "caption": "CRF vs HMM (<a target=\"_blank\" href='https://images.slideplayer.com/16/5183651/slides/slide_13.jpg'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2001",
+          "month": "6"
+        },
+        "text": {
+          "headline": "CRF as alternative for HMM",
+          "text": "<p>Hidden Markov Models (HMM) and stochastic grammars have been applied to a wide variety of problems in text and speech processing, including topic segmentation, part-of-speech (POS) tagging, information extraction, and syntactic disambiguation. However, it is not practical to represent multiple interacting features or long-range dependencies of the observations. Conditional Random Fields (CRF) was the alternative <a href='https://repository.upenn.edu/cgi/viewcontent.cgi?article=1162&context=cis_papers'>framework</a> for building probabilistic models to segment and label sequence data.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.researchgate.net/profile/Nianwen_Xue/publication/230876707/figure/fig1/AS:300383344840707@1448628378749/The-OntoNotes-Database-Schema.png",
+          "caption": "The OntoNotes Database Schema (<a target=\"_blank\" href='https://www.researchgate.net/profile/Nianwen_Xue/publication/230876707/figure/fig1/AS:300383344840707@1448628378749/The-OntoNotes-Database-Schema.png'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2007",
+          "month": "5"
+        },
+        "text": {
+          "headline": "OntoNotes Release 1.0",
+          "text": "<p>The OntoNotes project is a collaborative effort to make a resource available to the natural language research community so that decoders can be trained to generate the same structure in new documents. It aims to annotate a large corpus comprising various genres of text (news, conversational telephone speech, weblogs, use net, broadcast, talk shows) in three languages (English, Chinese, and Arabic) with structural information (syntax and predicate argument structure) and shallow semantics (word sense linked to an ontology and coreference).</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://image.slidesharecdn.com/multitaskfornlp0417-170417064740/95/multitask-learning-for-nlp-2-638.jpg",
+          "caption": "What is Multitask Learning? (<a target=\"_blank\" href='https://image.slidesharecdn.com/multitaskfornlp0417-170417064740/95/multitask-learning-for-nlp-2-638.jpg'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2008"
+        },
+        "text": {
+          "headline": "Multi-Task Learning",
+          "text": "<p>Generally, as soon as you find yourself optimizing more than one loss function, you are effectively doing multi-task learning (in contrast to single-task learning).</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://repository-images.githubusercontent.com/1349775/202c4680-8f7c-11e9-91c6-745fdcbeffe8",
+          "caption": "Gensim (<a target=\"_blank\" href='https://repository-images.githubusercontent.com/1349775/202c4680-8f7c-11e9-91c6-745fdcbeffe8'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2009"
+        },
+        "text": {
+          "headline": "Gensim",
+          "text": "<p>Gensim is a popular Python library for topic modelling, document indexing and similarity retrieval with large corpora.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.stack.imgur.com/0wi0Q.png",
+          "caption": "NLTK <a target=\"_blank\" href='https://i.stack.imgur.com/0wi0Q.png'>credits</a>"
+        },
+        "start_date": {
+          "year": "2011",
+          "month": "7"
+        },
+        "text": {
+          "headline": "NLTK",
+          "text": "<p>Natural Language Toolkit (NLTK) is a leading platform for building Python programs to work with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources such as WordNet, along with a suite of text processing libraries for classification, tokenization, stemming, tagging, parsing, and semantic reasoning, wrappers for industrial-strength NLP libraries, and an active discussion forum.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=P18EdAKuC1U",
+          "caption": "Watson and the Jeopardy! Challenge <a target=\"_blank\" href='https://www.youtube.com/watch?v=P18EdAKuC1U'>credits</a>"
+        },
+        "start_date": {
+          "year": "2011",
+          "month": "2"
+        },
+        "text": {
+          "headline": "IBM Watson wins Jeopardy!",
+          "text": "<p>Watson is a Question Answering system that won the Jeopardy! contest, defeating the best human players. This was the first man-versus-machine competition in Jeopardy!'s history. Watson won both the first game and the overall match to win the grand prize of $1 million</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://i.pinimg.com/564x/69/00/55/690055b6e6a1f7b3b6eaf880d03ab9d9.jpg",
+          "caption": "Siri jokes <a target=\"_blank\" href='https://i.pinimg.com/564x/69/00/55/690055b6e6a1f7b3b6eaf880d03ab9d9.jpg'>credits</a>"
+        },
+        "start_date": {
+          "year": "2011",
+          "month": "10"
+        },
+        "text": {
+          "headline": "Siri from Apple",
+          "text": "<p>Siri is Apple's virtual assistant. It uses voice queries, gesture based control, focus-tracking and a natural-language user interface to answer questions, make recommendations, and perform actions by delegating requests to a set of Internet services. The software adapts to users' individual language usages, searches, and preferences, with continuing use. Returned results are individualized.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.youtube.com/watch?v=mmQl6VGvX-c",
+          "caption": "Intro to Google Knowledge Graph <a target=\"_blank\" href='https://www.youtube.com/watch?v=mmQl6VGvX-c'>credits</a>"
+        },
+        "start_date": {
+          "year": "2012",
+          "month": "5"
+        },
+        "text": {
+          "headline": "\"Things, Not Strings\"",
+          "text": "<p>Google introduces Knowlegde Graph in it's <a target=\"_blank\" href='https://blog.google/products/search/introducing-knowledge-graph-things-not/'>blog</a>. KG enhances Google Search in three main ways. By finding the right thing, getting the best summary and discovering deeper and broader information.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://miro.medium.com/max/2400/1*YvOdGp73pOHmYGHKqkx5wQ.png",
+          "caption": "Word2Vec Skip-Gram (<a target=\"_blank\" href='https://becominghuman.ai/how-does-word2vecs-skip-gram-work-f92e0525def4'>credits</a>)"
+        },
+        "start_date": {
+          "year": "2013",
+          "month": "2"
+        },
+        "text": {
+          "headline": "Word2vec",
+          "text": "<p>Tomas Mikolov at Google publishes Word2vec. Word2vec is a group of models used to express words with vectors. These models are two-layer neural networks designed to reconstruct the contexts of words.<p></p>Word2vec retrieves a text as input and generates a vector space from it, which can consist of hundreds of dimensions, each word in the text being assigned to a corresponding vector in space. Words that share common context in the text are positioned close to each other in the vector space.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://images-na.ssl-images-amazon.com/images/I/612KpcXcFBL._AC_SL1000_.jpg",
+          "caption": "Amazon Echo Dot (4rd gen) <a target=\"_blank\" href='https://images-na.ssl-images-amazon.com/images/I/612KpcXcFBL._AC_SL1000_.jpg'>credits</a>"
+        },
+        "start_date": {
+          "year": "2014",
+          "month": "11"
+        },
+        "text": {
+          "headline": "Amazon Alexa",
+          "text": "<p>Amazon Alexa is a virtual assistant developed by Amazon. It's AI technology is used in the Amazon Echo smart speakers. It is capable of voice interaction, music playback, making to-do lists, setting alarms, streaming podcasts, playing audiobooks, and providing weather, traffic, sports, and other real-time information, such as news. Alexa can also control several smart devices using itself as a home automation system.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://spacy.io/architecture-415624fc7d149ec03f2736c4aa8b8f3c.svg",
+          "caption": "spaCy Architecture <a target=\"_blank\" href='https://spacy.io/architecture-415624fc7d149ec03f2736c4aa8b8f3c.svg'>credits</a>"
+        },
+        "start_date": {
+          "year": "2015",
+          "month": "2"
+        },
+        "text": {
+          "headline": "spaCy",
+          "text": "<p>Industrial-Strength Natural Language Processing in Python</p><p>The initial release of spaCy from Explosion AI was in 2015. In 2021 the python/cython package for NLP has a version 3 with a whole ecosystem of plugins, components and workflows and support for 65+ languages.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Google_Assistant_logo.svg",
+          "caption": "Google Assistant logo <a target=\"_blank\" href='https://commons.wikimedia.org/wiki/File:Google_Assistant_logo.svg'>credits</a>"
+        },
+        "start_date": {
+          "year": "2016",
+          "month": "5"
+        },
+        "text": {
+          "headline": "Google Assistant",
+          "text": "<p>Google Assistant is an AI–powered virtual assistant developed by Google that is available on mobile and smart home devices. Google Assistant can engage in two-way conversations and is triggered with the word 'Hey Google'.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.muraldecal.com/en/img/asy165-png/folder/products-detalle-png/wall-stickers-for-kids-bert-of-sesame-street.png",
+          "caption": "Bert <a target=\"_blank\" href='https://www.muraldecal.com/en/img/asy165-png/folder/products-detalle-png/wall-stickers-for-kids-bert-of-sesame-street.png'>credits</a>"
+        },
+        "start_date": {
+          "year": "2018",
+          "month": "10"
+        },
+        "text": {
+          "headline": "BERT",
+          "text": "<p>Bidirectional Encoder Representations from Transformers (BERT) is a Transformer-based machine learning technique for natural language processing (NLP) pre-training developed by Google.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://miro.medium.com/max/700/1*YfDk5y2DORltfeIVEAEdNg.png",
+          "caption": "Huggingface logo <a target=\"_blank\" href='https://medium.com/nerd-for-tech/nlp-with-hugging-face-transformers-a41caadf6f2'>credits</a>"
+        },
+        "start_date": {
+          "year": "2018",
+          "month": "11"
+        },
+        "text": {
+          "headline": "Huggingface Transformers",
+          "text": "<p>Launched in november 2018 and 40k stars on Github in Januari 2021!</p><p>State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0. Transformers provides general-purpose architectures (BERT, GPT-2, RoBERTa, XLM, DistilBert, XLNet…) for Natural Language Understanding (NLU) and Natural Language Generation (NLG) with over 32+ pretrained models in 100+ languages and deep interoperability between TensorFlow 2.0 and PyTorch. 🤗</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://res.infoq.com/news/2020/06/openai-gpt3-language-model/en/headerimage/openai-gpt3-language-model-1590942288273.jpg",
+          "caption": "<a target=\"_blank\" href='https://res.infoq.com/news/2020/06/openai-gpt3-language-model/en/headerimage/openai-gpt3-language-model-1590942288273.jpg'>credits</a>"
+        },
+        "start_date": {
+          "year": "2020",
+          "month": "6"
+        },
+        "text": {
+          "headline": "GPT-3",
+          "text": "<p>Generative Pre-trained Transformer 3 (GPT-3) is an autoregressive language model that uses deep learning to produce human-like text. It is created by OpenAI and has 175 billion parameters.<p></p>The New York Times wrote in July 2020 that GPT-3 —which can generate computer code and poetry, as well as prose— is not just 'amazing, spooky, and humbling', but also 'more than a little terrifying'.</p>"
+        }
+      },
+      {
+        "media": {
+          "url": "https://www.pngkey.com/png/full/86-862597_back-to-the-future-delorean-clipart-back-to.png",
+          "caption": "Delorean Time Machine from Back To The Future <a target=\"_blank\" href='https://www.pngkey.com/png/full/86-862597_back-to-the-future-delorean-clipart-back-to.png'>credits</a>"
+        },
+        "start_date": {
+          "year": "2030"
+        },
+        "text": {
+          "headline": "The Future?",
+          "text": "<p>Analysing text for low-resource domains and languages, with high transparency and explainability and non-biased and socially responsible models?</p><p>Visit innerdoc.com for more articles about Natural Language Processing!</p>"
+        }
+      }
+    ]
+}
