@@ -19,7 +19,7 @@ except:
 
 
 # parameters
-CDN_LOCAL = True
+CDN_LOCAL = False
 CDN_PATH = 'https://cdn.knightlab.com/libs/timeline3/latest'
 CSS_PATH = 'timeline3/css/timeline.css'
 JS_PATH = 'timeline3/js/timeline.js'
