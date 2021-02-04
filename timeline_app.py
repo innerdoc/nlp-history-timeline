@@ -28,7 +28,7 @@ SOURCE_TYPE = 'json' # json or gdocs
 GDOCS_PATH = 'https://docs.google.com/spreadsheets/u/1/d/1xuY4upIooEeszZ_lCmeNx24eSFWe0rHe9ZdqH2xqVNk/pubhtml' # example url
 JSON_PATH = 'timeline_nlp.json' # example json
 
-TL_HEIGHT = 1000 # px
+TL_HEIGHT = 800 # px
 
 
 # load data
@@ -97,6 +97,6 @@ elif view == code:
 
 elif view == about:
     st.subheader(about)
-    st.markdown('This Streamlit + TimelineJS demo is created by [Rob van Zoest](https://www.linkedin.com/in/robvanzoest/).')
+    st.markdown('This Streamlit + TimelineJS demo is created by [Rob van Zoest](https://www.linkedin.com/in/robvanzoest/) from [innerdoc.com](https://www.innerdoc.com/).')
     st.markdown('The code is available on [github.com/innerdoc](https://github.com/innerdoc/nlp-history-timeline).')
     st.markdown('With the help of [Streamlit](https://streamlit.io) and [TimelineJS](http://timeline.knightlab.com/) it became a demo timeline about the history of Natural Language Processing!')
