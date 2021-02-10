@@ -7,6 +7,8 @@
 ## About
 This demo is created to show the integration of [Streamlit](https://streamlit.io) with [TimelineJS](http://timeline.knightlab.com/). It became a demo timeline about the history of Natural Language Processing!
 
+🔥 There is now also a reusable [Streamlit Timeline component](https://github.com/innerdoc/streamlit-timeline)!
+
 
 ## The result
 [Open the demo app!](https://www.innerdoc.com/nlp-timeline-demo/)
